@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "myPrivateKey",
+  "db": "mongodb://localhost/SocialMedia",
+  "port": "4000",
+  "sessionSecret": "MySessionSecret"
+}

@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "jwtPrivateKey",
+  "db": "db",
+  "sessionSecret": "sessionSecret",
+  "port":"4000"
+}
