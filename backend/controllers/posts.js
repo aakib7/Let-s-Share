@@ -308,6 +308,5 @@ exports.forgetPassword = async (req,res)=>{
                 success: false,
                 message: err.message,
             });
-
     }
 }
